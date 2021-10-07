@@ -2,7 +2,7 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Al Jazeera Arabic Live | news | |
+bein sport news | news | |
 https://www.youtube.com/watch?v=0Y-IRcUJi6o
 
 
