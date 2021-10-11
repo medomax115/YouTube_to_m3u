@@ -2,9 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-bein sport news | news | |
-https://www.youtube.com/watch?v=rXnnVM6cCFw
-
-
-beIN SPORTS | News | |
-https://www.youtube.com/watch?v=cH1aRyPNqzA
+cameron | news | |
+https://www.youtube.com/watch?v=wX6qhbyETe0
